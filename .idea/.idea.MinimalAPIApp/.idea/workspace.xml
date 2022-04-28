@@ -5,8 +5,8 @@
     <projectFile profileName="IIS Express">MinimalAPI/MinimalAPI.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="266f9eb8-2f54-4f8e-b25f-15b65000acab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MinimalAPIApp/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="a337d3e5-8496-458b-87c9-90197416f1ef" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MinimalAPIApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MinimalAPIApp/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,11 +16,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
-  <component name="ProjectId" id="28O2YYpUbX3MZ41uNWIFKiaC14T" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="28ROeNby8JJOCbbiRodHEKbXJkI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -68,12 +64,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="266f9eb8-2f54-4f8e-b25f-15b65000acab" name="Changes" comment="" />
-      <created>1651073378227</created>
+      <changelist id="a337d3e5-8496-458b-87c9-90197416f1ef" name="Changes" comment="" />
+      <created>1651176029329</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1651073378227</updated>
-      <workItem from="1651073393426" duration="139000" />
+      <updated>1651176029329</updated>
+      <workItem from="1651176047369" duration="979000" />
     </task>
     <servers />
   </component>
@@ -82,17 +78,6 @@
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>

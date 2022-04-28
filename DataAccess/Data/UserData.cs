@@ -15,7 +15,7 @@ public class UserData : IUserData
     public async Task<User?> GetUser(int id)
     {
         var results = await _sqlDataAccess.LoadData<User, dynamic>(
-            "dbo.spUser_GetById",
+            "dbo.spUser_Get",
             new { Id = id });
 
         return results.FirstOrDefault();
